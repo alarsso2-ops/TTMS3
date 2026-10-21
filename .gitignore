@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local school data and backups
+database.db
+database.db-*
+backups/
+
+# Generated charts and personal photos
+assets/dashboard_charts/
+assets/profile_photos/
+
+# Local editor and environment files
+.vscode/
+.env
+.env.*
